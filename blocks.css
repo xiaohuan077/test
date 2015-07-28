@@ -1,0 +1,36 @@
+#box{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+}
+.content1{
+    width:296px ;
+    height: 296px;
+    background-color: plum;
+    border: 2px solid #ffffff;
+    float: left;
+}
+.content2,.content4{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    float: left;
+}
+.content3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+}
+.content5,.content7{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    float: right;
+}
+.content6,.content8{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    float: right;
+}
